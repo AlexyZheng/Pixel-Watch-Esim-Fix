@@ -1,0 +1,1 @@
+XposedHelpers.setStaticObjectField(XposedHelpers.findClass('android.os.Build',runtime.classLoader),'TYPE','eng');
